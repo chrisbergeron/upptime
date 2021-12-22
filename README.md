@@ -7,6 +7,7 @@ This repository contains the open-source uptime monitor and status page for [Chr
 [![Graphs CI](https://github.com/chrisbergeron/upptime/workflows/Graphs%20CI/badge.svg)](https://github.com/chrisbergeron/upptime/actions?query=workflow%3A%22Graphs+CI%22)
 [![Static Site CI](https://github.com/chrisbergeron/upptime/workflows/Static%20Site%20CI/badge.svg)](https://github.com/chrisbergeron/upptime/actions?query=workflow%3A%22Static+Site+CI%22)
 [![Summary CI](https://github.com/chrisbergeron/upptime/workflows/Summary%20CI/badge.svg)](https://github.com/chrisbergeron/upptime/actions?query=workflow%3A%22Summary+CI%22)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2c1ad88d-bc89-4484-bcf7-88ee21177171/deploy-status)](https://app.netlify.com/sites/trusting-euclid-aba181/deploys)
 
 With [Upptime](https://upptime.js.org), you can get your own unlimited and free uptime monitor and status page, powered entirely by a GitHub repository. We use [Issues](https://github.com/chrisbergeron/upptime/issues) as incident reports, [Actions](https://github.com/chrisbergeron/upptime/actions) as uptime monitors, and [Pages](https://chrisbergeron.github.io/upptime) for the status page.
 
