@@ -7,8 +7,6 @@ sites:
     url: https://chrisbergeron.com
   - name: The Holding Company
     url: https://holdingco.com
-  - name: METAcrypt
-    url: https://metacrypt.io
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
