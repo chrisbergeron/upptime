@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 841,
-    "timeDay": 841,
-    "timeWeek": 841,
-    "timeMonth": 841,
-    "timeYear": 841,
+    "time": 669,
+    "timeDay": 669,
+    "timeWeek": 669,
+    "timeMonth": 669,
+    "timeYear": 669,
     "dailyMinutesDown": {}
   },
   {
@@ -28,31 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 477,
-    "timeDay": 477,
-    "timeWeek": 477,
-    "timeMonth": 477,
-    "timeYear": 477,
+    "time": 464,
+    "timeDay": 464,
+    "timeWeek": 464,
+    "timeMonth": 464,
+    "timeYear": 464,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "METAcrypt",
-    "url": "https://metacrypt.io",
-    "icon": "https://favicons.githubusercontent.com/metacrypt.io",
-    "slug": "met-acrypt",
-    "status": "down",
-    "uptime": "10.31%",
-    "uptimeDay": "10.31%",
-    "uptimeWeek": "10.31%",
-    "uptimeMonth": "10.31%",
-    "uptimeYear": "10.31%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2021-12-23": 0
-    }
   }
 ]
