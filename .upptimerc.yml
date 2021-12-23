@@ -7,8 +7,10 @@ sites:
     url: https://chrisbergeron.com
   - name: The Holding Company
     url: https://holdingco.com
+
 assignees:
   - chrisbergeron
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -16,7 +18,7 @@ status-website:
   cname: cbergeron-status.netlify.app
   logoUrl: https://chrisbergeron.com/logo.png
   name: Chris Bergeron's Blog
-  introTitle: "**Uptime Status** of Chris Bergeron's Sites"
+  introTitle: "**Uptime and Status**"
   introMessage: This is a status page which uses **real-time** data from my [GitHub repository](https://github.com/chrisbergeron/upptime). Serverless - just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
 
   user-agent: chrisbergeron
