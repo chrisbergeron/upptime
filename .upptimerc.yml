@@ -20,6 +20,7 @@ status-website:
   introTitle: "**Uptime Status** of Chris Bergeron's Tech Blog"
   introMessage: This is a status page which uses **real-time** data from my [GitHub repository](https://github.com/chrisbergeron/upptime). Serverless - just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
 
+  user-agent: chrisbergeron
   theme: dark
   favicon: https://chrisbergeron.com/favicon.ico
   navbar:
