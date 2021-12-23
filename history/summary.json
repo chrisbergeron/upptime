@@ -1,20 +1,20 @@
 [
   {
-    "name": "Chris Bergero'n Tech Blog",
+    "name": "Chris Bergeron's Tech Blog",
     "url": "https://chrisbergeron.com",
     "icon": "https://favicons.githubusercontent.com/chrisbergeron.com",
-    "slug": "chris-bergero-n-tech-blog",
+    "slug": "chris-bergeron-s-tech-blog",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 337,
-    "timeDay": 337,
-    "timeWeek": 337,
-    "timeMonth": 337,
-    "timeYear": 337,
+    "time": 414,
+    "timeDay": 414,
+    "timeWeek": 414,
+    "timeMonth": 414,
+    "timeYear": 414,
     "dailyMinutesDown": {}
   },
   {
@@ -28,31 +28,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 543,
-    "timeDay": 543,
-    "timeWeek": 543,
-    "timeMonth": 543,
-    "timeYear": 543,
+    "time": 505,
+    "timeDay": 505,
+    "timeWeek": 505,
+    "timeMonth": 505,
+    "timeYear": 505,
     "dailyMinutesDown": {}
   },
   {
     "name": "MΞTΛcrypt",
-    "url": "metacrypt.io",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "url": "https://metacrypt.io",
+    "icon": "https://favicons.githubusercontent.com/metacrypt.io",
     "slug": "mkst-lcrypt",
     "status": "down",
-    "uptime": "0.54%",
-    "uptimeDay": "0.54%",
-    "uptimeWeek": "0.54%",
-    "uptimeMonth": "0.54%",
-    "uptimeYear": "0.54%",
+    "uptime": "0.21%",
+    "uptimeDay": "0.21%",
+    "uptimeWeek": "0.21%",
+    "uptimeMonth": "0.21%",
+    "uptimeYear": "0.21%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-23": 5
+      "2021-12-23": 10
     }
   }
 ]
