@@ -17,16 +17,14 @@ status-website:
   #baseUrl: /
   cname: cbergeron-status.netlify.app
   logoUrl: https://chrisbergeron.com/logo.png
-  name: Chris Bergeron's Blog
+  name: Status
   introTitle: "**Uptime and Status**"
   introMessage: This is a status page which uses **real-time** data from my [GitHub repository](https://github.com/chrisbergeron/upptime). Serverless - just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
 
   user-agent: chrisbergeron
-  themeUrl: https://cbergeron-status.netlify.app/themes/custom.css
+  themeUrl: https://cbergeron-status.netlify.app/custom.css
   favicon: https://chrisbergeron.com/favicon.ico
   navbar:
-#    - title: Status
-#      href: https://status.chrisbergeron.com
     - title: Chris Bergeron Tech Blog
       href: https://chrisbergeron.com
 
