@@ -22,7 +22,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://chrisbergeron.github.io/upptime)
+[**Visit our status website →**](https://cbergeron-status.netlify.app)
 
 ## 📄 License
 
