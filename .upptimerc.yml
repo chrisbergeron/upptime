@@ -23,7 +23,7 @@ status-website:
 
   user-agent: chrisbergeron
   # theme: custom
-  themeUrl: https://chrisbergreron.com/custom/statuspage.css
+  themeUrl: https://chrisbergeron.com/css/statuspage.css
   favicon: https://chrisbergeron.com/favicon.ico
   navbar:
     - title: Chris Bergeron Tech Blog
