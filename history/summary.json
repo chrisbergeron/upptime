@@ -28,19 +28,19 @@
     "url": "https://holdingco.com",
     "icon": "https://favicons.githubusercontent.com/holdingco.com",
     "slug": "the-holding-company",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 414,
-    "timeDay": 456,
-    "timeWeek": 416,
-    "timeMonth": 407,
-    "timeYear": 414,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 412,
+    "timeDay": 319,
+    "timeWeek": 387,
+    "timeMonth": 400,
+    "timeYear": 412,
     "dailyMinutesDown": {
-      "2022-06-21": 0
+      "2022-06-21": 24
     }
   }
 ]
