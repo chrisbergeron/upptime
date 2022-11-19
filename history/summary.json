@@ -8,12 +8,12 @@
     "uptime": "96.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "96.99%",
     "time": 290,
     "timeDay": 163,
     "timeWeek": 210,
-    "timeMonth": 296,
+    "timeMonth": 206,
     "timeYear": 290,
     "dailyMinutesDown": {
       "2022-10-19": 24,
@@ -43,9 +43,9 @@
     "url": "https://holdingco.com",
     "icon": "https://icons.duckduckgo.com/ip3/holdingco.com.ico",
     "slug": "the-holding-company",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -55,6 +55,7 @@
     "timeMonth": 403,
     "timeYear": 459,
     "dailyMinutesDown": {
+      "2022-11-19": 0,
       "2022-07-23": 24,
       "2022-06-21": 24
     }
