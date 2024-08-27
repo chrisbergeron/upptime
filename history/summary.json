@@ -4,7 +4,7 @@
     "url": "https://chrisbergeron.com",
     "icon": "https://icons.duckduckgo.com/ip3/chrisbergeron.com.ico",
     "slug": "chris-bergeron-s-tech-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "98.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 190,
     "timeMonth": 185,
     "timeYear": 195,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-27": 0
+    }
   },
   {
     "name": "The Holding Company",
