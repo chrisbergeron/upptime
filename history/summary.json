@@ -22,19 +22,19 @@
     "url": "https://holdingco.com",
     "icon": "https://icons.duckduckgo.com/ip3/holdingco.com.ico",
     "slug": "the-holding-company",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 377,
-    "timeDay": 346,
-    "timeWeek": 331,
-    "timeMonth": 356,
+    "timeDay": 394,
+    "timeWeek": 345,
+    "timeMonth": 359,
     "timeYear": 372,
     "dailyMinutesDown": {
-      "2025-02-26": 0
+      "2025-02-26": 5
     }
   }
 ]
