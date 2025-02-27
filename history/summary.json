@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 210,
-    "timeDay": 192,
-    "timeWeek": 212,
+    "timeDay": 205,
+    "timeWeek": 205,
     "timeMonth": 181,
     "timeYear": 231,
     "dailyMinutesDown": {}
@@ -24,17 +24,15 @@
     "slug": "the-holding-company",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 377,
-    "timeDay": 394,
-    "timeWeek": 345,
-    "timeMonth": 359,
-    "timeYear": 372,
-    "dailyMinutesDown": {
-      "2025-02-26": 5
-    }
+    "timeDay": 451,
+    "timeWeek": 335,
+    "timeMonth": 360,
+    "timeYear": 373,
+    "dailyMinutesDown": {}
   }
 ]
