@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/chrisbergeron.com.ico",
     "slug": "chris-bergeron-s-tech-blog",
     "status": "up",
-    "uptime": "99.17%",
+    "uptime": "99.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 222,
-    "timeDay": 168,
-    "timeWeek": 217,
-    "timeMonth": 184,
-    "timeYear": 222,
+    "timeDay": 262,
+    "timeWeek": 231,
+    "timeMonth": 186,
+    "timeYear": 223,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 382,
-    "timeDay": 766,
-    "timeWeek": 536,
-    "timeMonth": 467,
-    "timeYear": 384,
+    "timeDay": 487,
+    "timeWeek": 545,
+    "timeMonth": 472,
+    "timeYear": 385,
     "dailyMinutesDown": {}
   }
 ]
