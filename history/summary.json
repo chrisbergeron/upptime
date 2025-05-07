@@ -4,18 +4,20 @@
     "url": "https://chrisbergeron.com",
     "icon": "https://icons.duckduckgo.com/ip3/chrisbergeron.com.ico",
     "slug": "chris-bergeron-s-tech-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "99.19%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 226,
-    "timeDay": 212,
+    "timeDay": 224,
     "timeWeek": 251,
-    "timeMonth": 213,
+    "timeMonth": 214,
     "timeYear": 225,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-07": 6
+    }
   },
   {
     "name": "The Holding Company",
