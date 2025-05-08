@@ -6,18 +6,16 @@
     "slug": "chris-bergeron-s-tech-blog",
     "status": "up",
     "uptime": "99.19%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 226,
-    "timeDay": 224,
-    "timeWeek": 251,
-    "timeMonth": 214,
-    "timeYear": 225,
-    "dailyMinutesDown": {
-      "2025-05-07": 6
-    }
+    "timeDay": 274,
+    "timeWeek": 260,
+    "timeMonth": 218,
+    "timeYear": 226,
+    "dailyMinutesDown": {}
   },
   {
     "name": "The Holding Company",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 388,
-    "timeDay": 776,
-    "timeWeek": 516,
-    "timeMonth": 531,
-    "timeYear": 394,
+    "time": 389,
+    "timeDay": 1061,
+    "timeWeek": 606,
+    "timeMonth": 541,
+    "timeYear": 396,
     "dailyMinutesDown": {}
   }
 ]
