@@ -4,7 +4,7 @@
     "url": "https://chrisbergeron.com",
     "icon": "https://icons.duckduckgo.com/ip3/chrisbergeron.com.ico",
     "slug": "chris-bergeron-s-tech-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 266,
     "timeYear": 230,
     "dailyMinutesDown": {
+      "2026-03-11": 0,
       "2025-10-20": 21
     }
   },
